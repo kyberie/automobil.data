@@ -40,5 +40,5 @@ jobs:
       with:
         source-directory: 'main'
         destination-github-username: 'kyberie'
-        destination-repository-name: 'pojisteniauta.data.beta'
+        destination-repository-name: 'automobil.data.beta'
         user-email: milan.somsedik@gmail.com
