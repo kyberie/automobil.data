@@ -18,6 +18,33 @@
             "web_url": "https://www.insia.cz/"
         }
     ],
+"countries": [
+    {
+      "country_abbr": "CZ",
+      "order": 10,
+      "coupon_url_buy": "https://edalnice.cz/jednoduchy-nakup/index.html#/eshop/order",
+      "coupon_url_administration": "https://edalnice.cz/sprava-zakoupene-znamky/index.html#/charge_management"
+    },
+    {
+      "country_abbr": "SK",
+      "order": 20,
+      "coupon_url_buy": "https://eznamka.sk/selfcare/purchase",
+      "coupon_url_verification": "https://eznamka.sk/selfcare/modification/select/select-vignettes/?operation=Check"
+    },
+    {
+      "country_abbr": "RO",
+      "order": 30
+    },
+    {
+      "country_abbr": "AT",
+      "order": 40,
+      "coupon_url_buy": "https://shop.asfinag.at/cs"
+    },
+    {
+      "country_abbr": "UNDEFINED",
+      "order": 2000
+    }
+  ],	
 "stk":[
 	{
 		"cislo":"31.00",
