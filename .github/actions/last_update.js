@@ -3,7 +3,7 @@ var date = new Date();
 const archiver = require('archiver');
 
 
-fs.readFile('main/car_models.json', (err, data) => {
+fs.readFile('main/models.json', (err, data) => {
   let models = JSON.parse(data);
   let zip_name_all = models.logos_zip_file_all;
 
