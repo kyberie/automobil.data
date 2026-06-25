@@ -61,9 +61,9 @@
     {
       "country_abbr": "CZ",
       "order": 10,
-      "coupon_url_buy": "https://edalnice.cz/jednoduchy-nakup/index.html#/eshop/order",
-      "coupon_url_administration": "https://edalnice.cz/sprava-zakoupene-znamky/index.html#/charge_management",
-	  "coupon_url_verification": "https://edalnice.cz/#/validation/summary",
+      "coupon_url_buy": "https://edalnice.gov.cz/cs/jednoduchy-nakup",
+      "coupon_url_administration": "https://edalnice.gov.cz/cs/sprava-znamky",
+	  "coupon_url_verification": "https://edalnice.gov.cz/cs",
 	  "car_url_stk_history":"https://www.kontrolatachometru.cz",
 	  "coupon_country_id":[
 		  	{
